@@ -1,0 +1,122 @@
+{
+	"c7ysa3": {
+		"zh-cn": "仪表盘",
+		"en": "Instrument panel",
+		"ko": "계기판",
+		"ja": "計器盤です"
+	},
+	"f6y6dw4": {
+		"zh-cn": "用户管理",
+		"en": "User management",
+		"ko": "사용자 관리",
+		"ja": "ユーザー管理です"
+	},
+	"f6r81s4": {
+		"zh-cn": "用户列表",
+		"en": "User list",
+		"ko": "사용자 목록",
+		"ja": "ユーザーリストです"
+	},
+	"hxhx7p4": {
+		"zh-cn": "角色管理",
+		"en": "Role management",
+		"ko": "역할 관리",
+		"ja": "役割管理です"
+	},
+	"gar1ro4": {
+		"zh-cn": "系统设置",
+		"en": "System setting",
+		"ko": "시스템 설정",
+		"ja": "システム設定です"
+	},
+	"bj9c9u4": {
+		"zh-cn": "基本设置",
+		"en": "Basic setup",
+		"ko": "기본 설정",
+		"ja": "基本設定です"
+	},
+	"d1tfy94": {
+		"zh-cn": "操作日志",
+		"en": "Operation log",
+		"ko": "작업 로그",
+		"ja": "操作履歴です"
+	},
+	"a6ttl24": {
+		"zh-cn": "个人中心",
+		"en": "Individual center",
+		"ko": "개인 센터",
+		"ja": "個人センターです"
+	},
+	"iifi5w4": {
+		"zh-cn": "退出登录",
+		"en": "Log out",
+		"ko": "로그아웃",
+		"ja": "ログアウトします"
+	},
+	"io38z3": {
+		"zh-cn": "管理员",
+		"en": "Administrator",
+		"ko": "관리원",
+		"ja": "管理人です"
+	},
+	"tjj74s8": {
+		"zh-cn": "欢迎使用管理后台",
+		"en": "Welcome to the Admin background",
+		"ko": "관리 배경을 사용하신 것을 환영합니다",
+		"ja": "管理バックヤードのご利用を歓迎します"
+	},
+	"7grhuz6": {
+		"zh-cn": "请输入用户名",
+		"en": "Please enter your username",
+		"ko": "사용자 이름을 입력하십시오",
+		"ja": "ユーザー名の入力をお願いします"
+	},
+	"jvz5w79": {
+		"zh-cn": "长度3-12个字符",
+		"en": "Contains 3 to 12 characters",
+		"ko": "3~12 글자 크기이다",
+		"ja": "長さは3 ~ 12文字です"
+	},
+	"2j9vj05": {
+		"zh-cn": "请输入密码",
+		"en": "Please enter password",
+		"ko": "비밀번호를 입력하십시오.",
+		"ja": "パスワードをお願いします"
+	},
+	"opnuxj8": {
+		"zh-cn": "需包含字母和数字",
+		"en": "Must contain letters and numbers",
+		"ko": "문자와 숫자를 포함해야 한다",
+		"ja": "アルファベットと数字が必要です"
+	},
+	"koca2": {
+		"zh-cn": "登录",
+		"en": "Log in",
+		"ko": "로그인",
+		"ja": "登録します"
+	},
+	"ogwh2": {
+		"zh-cn": "账号",
+		"en": "Account number",
+		"ko": "계정",
+		"ja": "アカウントです"
+	},
+	"g9ob2": {
+		"zh-cn": "密码",
+		"en": "cipher",
+		"ko": "암호",
+		"ja": "パスワードです"
+	},
+	"dure2": {
+		"zh-cn": "中文",
+		"en": "Chinese",
+		"ko": "중국어",
+		"ja": "中文"
+	},
+	"mtva2": {
+		"zh-cn": "英文",
+		"en": "English",
+		"ko": "영어",
+		"ja": "英語です"
+	}
+}
