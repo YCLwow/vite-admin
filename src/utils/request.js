@@ -2,7 +2,7 @@
 import axios from 'axios'
 
 const service = axios.create({
-  baseURL: 'https://api.example.com', // 基础路径
+  // baseURL: '192.168.20.138:8080', // 基础路径
   timeout: 10000,                    // 超时时间
   withCredentials: true               // 解决跨域问题[4](@ref)
 })

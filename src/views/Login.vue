@@ -1,6 +1,6 @@
 <template>
     <div class="Login">
-        <el-form :model="loginForm" :rules="rules" ref="loginForm" class="login-container">
+        <el-form :model="loginForm"  ref="loginFormRef" class="login-container">
             <div class="lang-switch">
                 <select v-model="currentLang" @change="changeLanguage">
                     <option value="zh-CN">中文</option>
@@ -18,7 +18,7 @@
             </el-form-item>
 
             <el-form-item>
-                <el-button type="primary" class="login-btn" @click="handleLogin">登录</el-button>
+                <el-button type="primary" class="login-btn" @click="handleLogin">测试登录</el-button>
             </el-form-item>
         </el-form>
     </div>
@@ -26,21 +26,12 @@
 </template>
 
 <script setup>
-import { ref, reactive } from 'vue'
+import { ref ,reactive} from 'vue'
 
 import userApi from '@/api/user.js'
 
-const loginForm = ref({ username: '', password: '' })
-const rules = reactive({
-    username: [
-        { required: true, message: '请输入用户名', trigger: 'blur' },
-        { min: 3, max: 12, message: '长度3-12个字符' }
-    ],
-    password: [
-        { required: true, message: '请输入密码', trigger: 'blur' },
-        { pattern: /^(?=.*[A-Za-z])(?=.*\d).{6,}$/, message: '需包含字母和数字' }
-    ]
-})
+const loginForm = reactive({ username: '', password: '',id:'2' })
+
 const currentLang = ref(localStorage.getItem('lang') || 'zh-CN')
 
 const changeLanguage = () => {
@@ -51,7 +42,8 @@ const changeLanguage = () => {
 
 const  handleLogin = async () => {
     try {
-    await userApi.login(loginForm.value); // 登录接口调用
+        console.log(loginForm)
+    await userApi.login(loginForm); // 登录接口调用
     // 登录成功后跳转
     this.$router.push('/dashboard');  // 路径跳转
     // 或使用命名路由（推荐）
