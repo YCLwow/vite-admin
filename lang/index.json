@@ -124,5 +124,11 @@
 		"en": "Test entry",
 		"ko": "로그인 테스트",
 		"ja": "テスト登録です"
+	},
+	"fhqiw28": {
+		"zh-cn": "admin编辑器",
+		"en": "admin Editor",
+		"ko": "admin 편집기",
+		"ja": "adminエディタです"
 	}
 }

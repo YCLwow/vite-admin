@@ -18,7 +18,7 @@
             </el-form-item>
 
             <el-form-item>
-                <el-button type="primary" class="login-btn" @click="handleLogin">测试登录</el-button>
+                <el-button type="primary" class="login-btn" @click="handleLogin">登录</el-button>
             </el-form-item>
         </el-form>
     </div>
@@ -27,12 +27,15 @@
 
 <script setup>
 import { ref ,reactive} from 'vue'
+import { useRouter } from 'vue-router'
 
 import userApi from '@/api/user.js'
 
 const loginForm = reactive({ username: '', password: '',id:'2' })
 
 const currentLang = ref(localStorage.getItem('lang') || 'zh-CN')
+
+const router = useRouter()
 
 const changeLanguage = () => {
     localStorage.setItem('lang', currentLang.value)
@@ -45,9 +48,9 @@ const  handleLogin = async () => {
         console.log(loginForm)
     await userApi.login(loginForm); // 登录接口调用
     // 登录成功后跳转
-    this.$router.push('/dashboard');  // 路径跳转
+    router.push('/');  // 路径跳转
     // 或使用命名路由（推荐）
-    this.$router.push({ name: 'Dashboard' }); 
+    // this.$router.push({ name: 'Dashboard' }); 
   } catch (error) {
     console.error('登录失败:', error);
   }

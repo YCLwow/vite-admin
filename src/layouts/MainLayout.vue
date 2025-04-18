@@ -10,7 +10,7 @@
         <!-- Logo 区域 -->
         <div class="logo-wrapper" @click="router.push('/')">
           <!-- <img src="@/assets/logo.png" class="logo" alt="logo"> -->
-          <span v-show="!isCollapse" class="logo-text">Admin System</span>
+          <span v-show="!isCollapse" class="logo-text">admin编辑器</span>
         </div>
   
         <!-- 导航菜单 -->
