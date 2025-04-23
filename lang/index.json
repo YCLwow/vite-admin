@@ -130,5 +130,1739 @@
 		"en": "admin Editor",
 		"ko": "admin 편집기",
 		"ja": "adminエディタです"
+	},
+	"ixv4f3": {
+		"zh-cn": "组件A",
+		"en": "Component A",
+		"ko": "컴포넌트 a",
+		"ja": "コンポーネントAです"
+	},
+	"ixv4g3": {
+		"zh-cn": "组件B",
+		"en": "Component B",
+		"ko": "컴포넌트 b",
+		"ja": "コンポーネントBです"
+	},
+	"ixv4h3": {
+		"zh-cn": "组件C",
+		"en": "Component C",
+		"ko": "컴포넌트 c",
+		"ja": "コンポーネントCです"
+	},
+	"mugz2": {
+		"zh-cn": "苹果",
+		"en": "Apple",
+		"ko": "사과",
+		"ja": "りんごです"
+	},
+	"quvk2": {
+		"zh-cn": "香蕉",
+		"en": "Banana",
+		"ko": "바나나",
+		"ja": "バナナ"
+	},
+	"eapw2": {
+		"zh-cn": "名1",
+		"en": "Name 1",
+		"ko": "1명",
+		"ja": "名1です"
+	},
+	"eapx2": {
+		"zh-cn": "名2",
+		"en": "Name 2",
+		"ko": "2",
+		"ja": "名2です"
+	},
+	"8122ih8": {
+		"zh-cn": "这是一个测试元素",
+		"en": "This is a test element",
+		"ko": "이것은 하나의 테스트 요소이다",
+		"ja": "これはテスト要素です"
+	},
+	"ed54874": {
+		"zh-cn": "测试元素",
+		"en": "Test element",
+		"ko": "요소 테스트",
+		"ja": "テスト要素です"
+	},
+	"fbq42": {
+		"zh-cn": "圆形",
+		"en": "Circle",
+		"ko": "원형",
+		"ja": "円形です"
+	},
+	"htqh2": {
+		"zh-cn": "方形",
+		"en": "Square",
+		"ko": "사각형",
+		"ja": "四角です"
+	},
+	"kx3t2": {
+		"zh-cn": "矩形",
+		"en": "Rectangle",
+		"ko": "사각형",
+		"ja": "長方形です"
+	},
+	"hu2t2": {
+		"zh-cn": "文本",
+		"en": "Text",
+		"ko": "텍스트",
+		"ja": "テキストです"
+	},
+	"d8ia6x4": {
+		"zh-cn": "文本内容",
+		"en": "Text content",
+		"ko": "텍스트 내용",
+		"ja": "テキストの内容です"
+	},
+	"bdkvyu4": {
+		"zh-cn": "图形组件",
+		"en": "Graphic component",
+		"ko": "그래픽 구성 요소",
+		"ja": "グラフィックコンポーネントです"
+	},
+	"kgfc2": {
+		"zh-cn": "画布",
+		"en": "Canvas",
+		"ko": "캔버스",
+		"ja": "カンバスです"
+	},
+	"c26z2i4": {
+		"zh-cn": "属性配置",
+		"en": "Attribute configuration",
+		"ko": "속성 설정",
+		"ja": "属性配置です"
+	},
+	"bj13zv4": {
+		"zh-cn": "基本属性",
+		"en": "Basic attributes",
+		"ko": "기본 속성",
+		"ja": "基本的な属性です"
+	},
+	"cxc6v3": {
+		"zh-cn": "名称：",
+		"en": "Name:",
+		"ko": "이름:",
+		"ja": "名前です:"
+	},
+	"feat13": {
+		"zh-cn": "文本：",
+		"en": "Text:",
+		"ko": "텍스트:",
+		"ja": "テキストです。"
+	},
+	"i8xk2": {
+		"zh-cn": "样式",
+		"en": "pattern",
+		"ko": "스타일",
+		"ja": "様式です"
+	},
+	"dx8dt3": {
+		"zh-cn": "宽度：",
+		"en": "Width:",
+		"ko": "너비:",
+		"ja": "幅です:"
+	},
+	"n5zik3": {
+		"zh-cn": "高度：",
+		"en": "Height",
+		"ko": "높이:",
+		"ja": "高さです:"
+	},
+	"goh5cb4": {
+		"zh-cn": "背景色：",
+		"en": "Background color:",
+		"ko": "배경색:",
+		"ja": "背景色です。"
+	},
+	"lkzd93": {
+		"zh-cn": "边框：",
+		"en": "Border:",
+		"ko": "경계선:",
+		"ja": "枠です:"
+	},
+	"dsjv2": {
+		"zh-cn": "事件",
+		"en": "Event",
+		"ko": "사건",
+		"ja": "事件です"
+	},
+	"p88c255": {
+		"zh-cn": "点击事件：",
+		"en": "Click event",
+		"ko": "클릭 이벤트:",
+		"ja": "クリックイベントです。"
+	},
+	"k4g1": {
+		"zh-cn": "无",
+		"en": "no",
+		"ko": "무",
+		"ja": "ありません"
+	},
+	"ccv7rf4": {
+		"zh-cn": "弹出提示",
+		"en": "Pop-up prompt",
+		"ko": "팝업 팁",
+		"ja": "ポップアップメッセージです。"
+	},
+	"d4mv6d4": {
+		"zh-cn": "改变颜色",
+		"en": "Change the color",
+		"ko": "색상 변경",
+		"ja": "色を変えます"
+	},
+	"kaakmc5": {
+		"zh-cn": "提示内容：",
+		"en": "Prompt content",
+		"ko": "힌트 내용:",
+		"ja": "ヒントはこうです。"
+	},
+	"7te5gza": {
+		"zh-cn": "请先选择画布中的元素",
+		"en": "Please select the elements in the canvas first",
+		"ko": "캔버스에 있는 원소를 먼저 선택하세요",
+		"ja": "キャンバスの中の要素を選んでもらいます"
+	},
+	"sntki55": {
+		"zh-cn": "位置和大小",
+		"en": "Position and size",
+		"ko": "위치 및 크기",
+		"ja": "位置と大きさです"
+	},
+	"evoiz4": {
+		"zh-cn": "X坐标：",
+		"en": "X-coordinate:",
+		"ko": "x 좌표:",
+		"ja": "X座標です:"
+	},
+	"ewbii4": {
+		"zh-cn": "Y坐标：",
+		"en": "Y-coordinate:",
+		"ko": "y 좌표:",
+		"ja": "Y座標です:"
+	},
+	"bi14f64": {
+		"zh-cn": "填充色：",
+		"en": "Fill color:",
+		"ko": "채움 색상:",
+		"ja": "塗りつぶし色です"
+	},
+	"ikinh14": {
+		"zh-cn": "边框色：",
+		"en": "Border color:",
+		"ko": "경계선 색:",
+		"ja": "フレームカラーです。"
+	},
+	"78rs2s5": {
+		"zh-cn": "边框宽度：",
+		"en": "Border width:",
+		"ko": "경계선 너비:",
+		"ja": "枠幅です。"
+	},
+	"f3em43": {
+		"zh-cn": "指示灯",
+		"en": "Indicator light",
+		"ko": "지시등",
+		"ja": "ランプです"
+	},
+	"d6gw6b4": {
+		"zh-cn": "数字显示",
+		"en": "Digital display",
+		"ko": "디지털 디스플레이",
+		"ja": "デジタル表示です"
+	},
+	"ef1k2": {
+		"zh-cn": "储罐",
+		"en": "Storage tank",
+		"ko": "탱크",
+		"ja": "タンクです"
+	},
+	"gltf2": {
+		"zh-cn": "开关",
+		"en": "Switch",
+		"ko": "스위치",
+		"ja": "スイッチです"
+	},
+	"l4wkq3": {
+		"zh-cn": "趋势图",
+		"en": "Trend chart",
+		"ko": "트렌드 그래프",
+		"ja": "トレンドグラフです"
+	},
+	"1ekxxp8": {
+		"zh-cn": "SCADA组件库",
+		"en": "SCADA component library",
+		"ko": "scada 구성 요소 라이브러리",
+		"ja": "SCADAコンポーネントライブラリです"
+	},
+	"rjiwbu7": {
+		"zh-cn": "SCADA画布",
+		"en": "SCADA Canvas",
+		"ko": "스카다 캔버스",
+		"ja": "SCADAキャンバスです"
+	},
+	"e32z2": {
+		"zh-cn": "保存",
+		"en": "Save",
+		"ko": "저장",
+		"ja": "保存します"
+	},
+	"eual2": {
+		"zh-cn": "加载",
+		"en": "Loading",
+		"ko": "불러오기",
+		"ja": "ロードします"
+	},
+	"jdw52": {
+		"zh-cn": "清空",
+		"en": "Clear",
+		"ko": "비우기",
+		"ja": "空にします"
+	},
+	"bll67y4": {
+		"zh-cn": "基础样式",
+		"en": "Basic style",
+		"ko": "기본 스타일",
+		"ja": "ベーシックスタイルです"
+	},
+	"swggf15": {
+		"zh-cn": "仪表盘属性",
+		"en": "Dashboard properties",
+		"ko": "계기판 속성",
+		"ja": "ダッシュボード属性です"
+	},
+	"cdaxiw4": {
+		"zh-cn": "当前值：",
+		"en": "Current value:",
+		"ko": "현재 값:",
+		"ja": "現在の値です:"
+	},
+	"ddl31p4": {
+		"zh-cn": "最小值：",
+		"en": "Minimum value:",
+		"ko": "최소값:",
+		"ja": "最小値です:"
+	},
+	"dd5rd14": {
+		"zh-cn": "最大值：",
+		"en": "Maximum value:",
+		"ko": "최대 크기:",
+		"ja": "最大値です:"
+	},
+	"l23k875": {
+		"zh-cn": "刻度颜色：",
+		"en": "Scale color:",
+		"ko": "눈금 색상:",
+		"ja": "目盛りの色です"
+	},
+	"jm8hod5": {
+		"zh-cn": "指针颜色：",
+		"en": "Pointer color:",
+		"ko": "커서 색상:",
+		"ja": "針の色です。"
+	},
+	"n8az0b5": {
+		"zh-cn": "指示灯属性",
+		"en": "Indicator light attribute",
+		"ko": "표시기 속성",
+		"ja": "ランプ属性です"
+	},
+	"halin3": {
+		"zh-cn": "状态：",
+		"en": "Status:",
+		"ko": "상태:",
+		"ja": "状態です:"
+	},
+	"gmcv2": {
+		"zh-cn": "开启",
+		"en": "On",
+		"ko": "열",
+		"ja": "開きます"
+	},
+	"eod62": {
+		"zh-cn": "关闭",
+		"en": "Close",
+		"ko": "닫기",
+		"ja": "閉鎖します"
+	},
+	"o6902": {
+		"zh-cn": "警告",
+		"en": "Warning",
+		"ko": "경고",
+		"ja": "警告します"
+	},
+	"rjt9md5": {
+		"zh-cn": "开启颜色：",
+		"en": "Enable color:",
+		"ko": "색상 켜기:",
+		"ja": "色を開きます:"
+	},
+	"h52niu5": {
+		"zh-cn": "关闭颜色：",
+		"en": "Turn off color:",
+		"ko": "색상 끄기:",
+		"ja": "色を消します:"
+	},
+	"bxk3hc5": {
+		"zh-cn": "警告颜色：",
+		"en": "Warning color:",
+		"ko": "경고 색상:",
+		"ja": "警告の色です"
+	},
+	"m7ddbg6": {
+		"zh-cn": "数字显示属性",
+		"en": "Digital display attribute",
+		"ko": "디지털 디스플레이 속성",
+		"ja": "属性をデジタル表示します"
+	},
+	"def0gq4": {
+		"zh-cn": "显示值：",
+		"en": "Display value:",
+		"ko": "표시할 값:",
+		"ja": "表示値です:"
+	},
+	"cmao23": {
+		"zh-cn": "单位：",
+		"en": "Unit:",
+		"ko": "단위:",
+		"ja": "単位です:"
+	},
+	"apbt4h4": {
+		"zh-cn": "储罐属性",
+		"en": "Storage tank properties",
+		"ko": "탱크 속성",
+		"ja": "タンク属性です"
+	},
+	"cq1ma95": {
+		"zh-cn": "液位(%)",
+		"en": "Liquid level (%)",
+		"ko": "액체 레벨 (%)",
+		"ja": "液位(%)です。"
+	},
+	"dd4w775": {
+		"zh-cn": "液体颜色：",
+		"en": "Liquid color:",
+		"ko": "액체 색상:",
+		"ja": "液体の色です"
+	},
+	"cbqmv04": {
+		"zh-cn": "开关属性",
+		"en": "Switch attribute",
+		"ko": "스위치 속성",
+		"ja": "スイッチ属性です"
+	},
+	"40im195": {
+		"zh-cn": "趋势图属性",
+		"en": "Trend chart attributes",
+		"ko": "추세 그래프 속성",
+		"ja": "トレンドマップの特性です"
+	},
+	"fd6u43": {
+		"zh-cn": "数据：",
+		"en": "Data:",
+		"ko": "데이터:",
+		"ja": "データです:"
+	},
+	"n9d76l7": {
+		"zh-cn": "逗号分隔的数字",
+		"en": "Comma-separated numbers",
+		"ko": "쉼표로 구분된 숫자",
+		"ja": "コンマ区切りの数字です"
+	},
+	"c1athe5": {
+		"zh-cn": "线条颜色：",
+		"en": "Line color:",
+		"ko": "줄 색상:",
+		"ja": "線の色です"
+	},
+	"1g3ll65": {
+		"zh-cn": "填充颜色：",
+		"en": "Fill color:",
+		"ko": "색상 채우기:",
+		"ja": "色を塗ります:"
+	},
+	"arkghy4": {
+		"zh-cn": "切换状态",
+		"en": "Switching state",
+		"ko": "상태 전환",
+		"ja": "状態を切り替えます"
+	},
+	"biyxvy4": {
+		"zh-cn": "增加数值",
+		"en": "Increase the value",
+		"ko": "수치를 높이다",
+		"ja": "数値を上げます"
+	},
+	"apfrzi4": {
+		"zh-cn": "减少数值",
+		"en": "Reduce the value",
+		"ko": "수치를 줄이다",
+		"ja": "数値を減らします"
+	},
+	"d7rkh34": {
+		"zh-cn": "数据绑定",
+		"en": "Data binding",
+		"ko": "데이터 바인딩",
+		"ja": "データバインディングです"
+	},
+	"d7pp8o4": {
+		"zh-cn": "数据源：",
+		"en": "Data source:",
+		"ko": "데이터 원본:",
+		"ja": "データソースです。"
+	},
+	"jf8rex4": {
+		"zh-cn": "随机数据",
+		"en": "Random data",
+		"ko": "무작위 데이터",
+		"ja": "ランダムデータです"
+	},
+	"adwrns4": {
+		"zh-cn": "传感器1",
+		"en": "Sensor 1",
+		"ko": "센서 1",
+		"ja": "センサ1です"
+	},
+	"adwrnt4": {
+		"zh-cn": "传感器2",
+		"en": "Sensor 2",
+		"ko": "센서 2",
+		"ja": "センサ2です"
+	},
+	"adwrnu4": {
+		"zh-cn": "传感器3",
+		"en": "Sensor 3",
+		"ko": "센서 3",
+		"ja": "センサ3です"
+	},
+	"k8o3j35": {
+		"zh-cn": "刷新间隔:",
+		"en": "Refresh interval:",
+		"ko": "새로 고침 간격:",
+		"ja": "リフレッシュ間隔です:"
+	},
+	"q4mdqq6": {
+		"zh-cn": "画布保存成功",
+		"en": "The canvas was saved successfully.",
+		"ko": "캔버스를 성공적으로 저장했습니다",
+		"ja": "キャンバスの保存に成功しました"
+	},
+	"uzl1zp5": {
+		"zh-cn": "保存失败:",
+		"en": "Save failed",
+		"ko": "저장 실패:",
+		"ja": "保存に失敗します。"
+	},
+	"qosrx06": {
+		"zh-cn": "画布加载成功",
+		"en": "The canvas was loaded successfully.",
+		"ko": "캔버스를 성공적으로 불러왔습니다",
+		"ja": "キャンバスのロードに成功しました"
+	},
+	"pka1pxb": {
+		"zh-cn": "没有找到保存的画布数据",
+		"en": "The saved canvas data was not found",
+		"ko": "저장된 캔버스 데이터를 찾을 수 없습니다",
+		"ja": "保存されたキャンバスのデータは見つかりませんでした"
+	},
+	"dm2ul35": {
+		"zh-cn": "加载失败:",
+		"en": "Loading failure",
+		"ko": "로드 실패:",
+		"ja": "ロード失敗です:"
+	},
+	"4cekobh": {
+		"zh-cn": "确定要清空画布吗？此操作不可撤销。",
+		"en": "Are you sure you want to empty the canvas? This operation is irrevocable.",
+		"ko": "캔버스를 비우시겠습니까?이 작업은 취소할 수 없습니다.",
+		"ja": "キャンバスを空にしますか?この操作は撤回できません。"
+	},
+	"eslg2": {
+		"zh-cn": "删除",
+		"en": "Delete",
+		"ko": "삭제",
+		"ja": "削除します"
+	},
+	"fljd2": {
+		"zh-cn": "复制",
+		"en": "Copy",
+		"ko": "복사",
+		"ja": "複製します"
+	},
+	"geulpo4": {
+		"zh-cn": "置于顶层",
+		"en": "Placed on the top floor",
+		"ko": "맨 위에 놓다",
+		"ja": "最上階に置きます"
+	},
+	"gekral4": {
+		"zh-cn": "置于底层",
+		"en": "Placed at the bottom",
+		"ko": "밑바닥에 놓다",
+		"ja": "下層に置きます"
+	},
+	"iou3814": {
+		"zh-cn": "轨道演示",
+		"en": "Orbital demonstration",
+		"ko": "트랙 프리젠테이션",
+		"ja": "軌道実演です"
+	},
+	"sbq1": {
+		"zh-cn": "车",
+		"en": "car",
+		"ko": "차",
+		"ja": "車です"
+	},
+	"81s0iz6": {
+		"zh-cn": "轨道系统演示",
+		"en": "Orbital system demonstration",
+		"ko": "궤도 시스템 시범",
+		"ja": "軌道システムのデモンストレーションです"
+	},
+	"e86isw4": {
+		"zh-cn": "添加轨道",
+		"en": "Add track",
+		"ko": "트랙 추가",
+		"ja": "軌道を加えます。"
+	},
+	"vbkpvf6": {
+		"zh-cn": "添加直线轨道",
+		"en": "Add a linear track",
+		"ko": "직선 트랙 추가",
+		"ja": "直線軌道を追加します"
+	},
+	"s6wt6z6": {
+		"zh-cn": "添加弧形轨道",
+		"en": "Add arc-shaped tracks",
+		"ko": "호 트랙을 추가합니다",
+		"ja": "弧を描きます"
+	},
+	"t829k69": {
+		"zh-cn": "添加贝塞尔曲线轨道",
+		"en": "Add Bezier curve tracks",
+		"ko": "베젤 곡선 트랙을 추가합니다",
+		"ja": "ベッセル曲線の軌道を追加します"
+	},
+	"e86ilh4": {
+		"zh-cn": "添加车辆",
+		"en": "Add a vehicle",
+		"ko": "차량을 추가하다",
+		"ja": "車両を追加します"
+	},
+	"z7mzw06": {
+		"zh-cn": "添加随机车辆",
+		"en": "Add random vehicles",
+		"ko": "무작위 차량 추가",
+		"ja": "ランダムな車両を追加します"
+	},
+	"e6qbxk6": {
+		"zh-cn": "清除所有车辆",
+		"en": "Clear all vehicles",
+		"ko": "모든 차량 제거",
+		"ja": "全ての車両を一掃します"
+	},
+	"jtold14": {
+		"zh-cn": "预设轨道",
+		"en": "Preset orbit",
+		"ko": "미리 설정한 트랙",
+		"ja": "軌道を設定します"
+	},
+	"bdt6o74": {
+		"zh-cn": "圆形轨道",
+		"en": "Circular track",
+		"ko": "원형 궤도",
+		"ja": "円軌道です"
+	},
+	"fj4x8k4": {
+		"zh-cn": "矩形轨道",
+		"en": "Rectangular track",
+		"ko": "사각형 트랙",
+		"ja": "長方形の軌道です"
+	},
+	"cs78em5": {
+		"zh-cn": "8字形轨道",
+		"en": "8-shaped track",
+		"ko": "8자형 궤도",
+		"ja": "8の字軌道です"
+	},
+	"iorxju4": {
+		"zh-cn": "轨道控制",
+		"en": "Orbit control",
+		"ko": "궤도 제어",
+		"ja": "軌道制御です"
+	},
+	"ertl2": {
+		"zh-cn": "启动",
+		"en": "activate",
+		"ko": "가동",
+		"ja": "起動します"
+	},
+	"e9ae2": {
+		"zh-cn": "停止",
+		"en": "Stop",
+		"ko": "중지",
+		"ja": "停止します"
+	},
+	"lk1pv3": {
+		"zh-cn": "速度:",
+		"en": "Speed:",
+		"ko": "속도:",
+		"ja": "スピードです:"
+	},
+	"hqsvaf4": {
+		"zh-cn": "视图控制",
+		"en": "View control",
+		"ko": "보기 제어",
+		"ja": "ビュー制御です"
+	},
+	"j3qg53": {
+		"zh-cn": "缩放:",
+		"en": "Zoom:",
+		"ko": "크기 조정:",
+		"ja": "ズームします:"
+	},
+	"ec7edd8": {
+		"zh-cn": "scada编辑器",
+		"en": "scada Editor",
+		"ko": "스카다 편집기",
+		"ja": "scadaエディタです"
+	},
+	"52yfpoc": {
+		"zh-cn": "欢迎使用scada编辑器",
+		"en": "Welcome to use the scada editor",
+		"ko": "스카다 편집기를 환영합니다",
+		"ja": "scadaエディタの利用を歓迎します"
+	},
+	"fjdv1y4": {
+		"zh-cn": "直线轨道",
+		"en": "Linear track",
+		"ko": "직선 궤도",
+		"ja": "直線軌道"
+	},
+	"cepydi4": {
+		"zh-cn": "弧形轨道",
+		"en": "Arc-shaped track",
+		"ko": "호형 궤도",
+		"ja": "弧軌道です"
+	},
+	"ezy1fi4": {
+		"zh-cn": "环形轨道",
+		"en": "Circular orbit",
+		"ko": "고리형 궤도",
+		"ja": "環状軌道です"
+	},
+	"ioqrp04": {
+		"zh-cn": "轨道属性",
+		"en": "Orbital attribute",
+		"ko": "트랙 속성",
+		"ja": "軌道属性です"
+	},
+	"bb6apl5": {
+		"zh-cn": "轨道颜色：",
+		"en": "Track color:",
+		"ko": "트랙 색상:",
+		"ja": "レールカラーです"
+	},
+	"b238iu5": {
+		"zh-cn": "轨道宽度：",
+		"en": "Track width:",
+		"ko": "트랙 너비:",
+		"ja": "線路幅:です。"
+	},
+	"b6ft7o5": {
+		"zh-cn": "车辆颜色：",
+		"en": "Vehicle color:",
+		"ko": "차량 색상:",
+		"ja": "車両カラーです。"
+	},
+	"4ymtg75": {
+		"zh-cn": "运动状态：",
+		"en": "Motion state:",
+		"ko": "운동 상태:",
+		"ja": "運動状態です。"
+	},
+	"owyg2": {
+		"zh-cn": "运动",
+		"en": "Sports",
+		"ko": "운동",
+		"ja": "運動です"
+	},
+	"4woatm5": {
+		"zh-cn": "运动方向：",
+		"en": "Direction of movement",
+		"ko": "이동 방향:",
+		"ja": "運動の方向です。"
+	},
+	"iq6m2": {
+		"zh-cn": "正向",
+		"en": "Positive",
+		"ko": "향",
+		"ja": "前向きです"
+	},
+	"epr82": {
+		"zh-cn": "反向",
+		"en": "Reverse",
+		"ko": "역",
+		"ja": "逆です"
+	},
+	"llg2b3": {
+		"zh-cn": "速度：",
+		"en": "Speed:",
+		"ko": "속도:",
+		"ja": "スピードです:"
+	},
+	"avoqs95": {
+		"zh-cn": "车辆位置：",
+		"en": "Vehicle location:",
+		"ko": "차량 위치:",
+		"ja": "車両位置です:"
+	},
+	"ewd5y3": {
+		"zh-cn": "扫描仪",
+		"en": "Scanner",
+		"ko": "스캐너",
+		"ja": "スキャナーです"
+	},
+	"by1bk74": {
+		"zh-cn": "小件快手",
+		"en": "Small items are quick to handle",
+		"ko": "작은 일에 재빠르다",
+		"ja": "小物の達人です"
+	},
+	"j90ba3": {
+		"zh-cn": "翻板机",
+		"en": "Flip board machine",
+		"ko": "플레이트 플레이트",
+		"ja": "回転機です"
+	},
+	"i6uf2": {
+		"zh-cn": "格口",
+		"en": "Grid opening",
+		"ko": "거 우",
+		"ja": "格口です"
+	},
+	"cfyxu64": {
+		"zh-cn": "弯曲轨道",
+		"en": "Curved track",
+		"ko": "굴곡 궤도",
+		"ja": "軌道を曲げます。"
+	},
+	"7bd4w25": {
+		"zh-cn": "连接点设置",
+		"en": "Connection point setting",
+		"ko": "연결점 설정",
+		"ja": "接続点設置です"
+	},
+	"ege0p3": {
+		"zh-cn": "已连接",
+		"en": "Connected",
+		"ko": "연결되었음",
+		"ja": "接続しました"
+	},
+	"fszzl3": {
+		"zh-cn": "未连接",
+		"en": "Not connected",
+		"ko": "연결되지 않음",
+		"ja": "未接続です"
+	},
+	"htdf2": {
+		"zh-cn": "断开",
+		"en": "Disconnect",
+		"ko": "끊어",
+		"ja": "切断します"
+	},
+	"p0nb2": {
+		"zh-cn": "连接",
+		"en": "Connect",
+		"ko": "연결",
+		"ja": "接続します"
+	},
+	"cr71uc4": {
+		"zh-cn": "总销售额",
+		"en": "Total sales volume",
+		"ko": "총판매액",
+		"ja": "総売上高です。"
+	},
+	"adcj9q4": {
+		"zh-cn": "今日订单",
+		"en": "Today's order",
+		"ko": "금일주문서",
+		"ja": "本日の註文です"
+	},
+	"f6tfqc4": {
+		"zh-cn": "用户总数",
+		"en": "Total number of users",
+		"ko": "총 사용자 수",
+		"ja": "総利用者数です"
+	},
+	"l76hs3": {
+		"zh-cn": "访问量",
+		"en": "Visit volume",
+		"ko": "방문객 수",
+		"ja": "アクセス量です"
+	},
+	"glwp2": {
+		"zh-cn": "张三",
+		"en": "Zhang SAN",
+		"ko": "장삼",
+		"ja": "張三さんです"
+	},
+	"e7hbq3": {
+		"zh-cn": "已完成",
+		"en": "Completed",
+		"ko": "완료",
+		"ja": "完成しました"
+	},
+	"i1ql2": {
+		"zh-cn": "李四",
+		"en": "Li Si",
+		"ko": "리",
+		"ja": "リー四"
+	},
+	"dljhn3": {
+		"zh-cn": "处理中",
+		"en": "Under processing",
+		"ko": "처리 중",
+		"ja": "処理中です"
+	},
+	"k31l2": {
+		"zh-cn": "王五",
+		"en": "Wang Wu",
+		"ko": "왕 씨",
+		"ja": "王五です"
+	},
+	"edo6j3": {
+		"zh-cn": "待付款",
+		"en": "Pending payment",
+		"ko": "지불을 기다리다",
+		"ja": "支払い待ちです"
+	},
+	"oiag2": {
+		"zh-cn": "赵六",
+		"en": "Zhao Liu",
+		"ko": "조 6",
+		"ja": "趙六です"
+	},
+	"ppwy2": {
+		"zh-cn": "钱七",
+		"en": "Qian Qi",
+		"ko": "돈 7",
+		"ja": "銭七です"
+	},
+	"e6ei03": {
+		"zh-cn": "已发货",
+		"en": "Dispatched",
+		"ko": "발송이 완료되다",
+		"ja": "出荷済みです"
+	},
+	"m8zzj3": {
+		"zh-cn": "销售额",
+		"en": "Sales volume",
+		"ko": "매출액",
+		"ja": "売上高です"
+	},
+	"kv96k3": {
+		"zh-cn": "订单量",
+		"en": "Order quantity",
+		"ko": "주문량",
+		"ja": "註文量です"
+	},
+	"es9k2": {
+		"zh-cn": "周一",
+		"en": "Monday",
+		"ko": "월요일",
+		"ja": "月曜日です"
+	},
+	"esdg2": {
+		"zh-cn": "周二",
+		"en": "Tuesday",
+		"ko": "화요일",
+		"ja": "火曜日です"
+	},
+	"es9t2": {
+		"zh-cn": "周三",
+		"en": "Wednesday",
+		"ko": "수요일",
+		"ja": "水曜日です"
+	},
+	"eu0j2": {
+		"zh-cn": "周四",
+		"en": "Thursday",
+		"ko": "목요일",
+		"ja": "木曜日です"
+	},
+	"esdo2": {
+		"zh-cn": "周五",
+		"en": "Friday",
+		"ko": "금요일",
+		"ja": "金曜日です"
+	},
+	"esxx2": {
+		"zh-cn": "周六",
+		"en": "Saturday",
+		"ko": "토요일",
+		"ja": "土曜日です"
+	},
+	"ewzh2": {
+		"zh-cn": "周日",
+		"en": "Sunday",
+		"ko": "일요일",
+		"ja": "日曜日です"
+	},
+	"6ffinq9": {
+		"zh-cn": "{value} 元",
+		"en": "{value} meta",
+		"ko": "{value} 위안",
+		"ja": "{value}元です"
+	},
+	"6ffi909": {
+		"zh-cn": "{value} 单",
+		"en": "{value} Single",
+		"ko": "{value}만",
+		"ja": "{value}単です"
+	},
+	"ffed4w4": {
+		"zh-cn": "直接访问",
+		"en": "Direct access",
+		"ko": "직접 방문",
+		"ja": "直接訪問します"
+	},
+	"d5cnkv4": {
+		"zh-cn": "搜索引擎",
+		"en": "Search engine",
+		"ko": "검색 엔진",
+		"ja": "検索エンジンです"
+	},
+	"il5bpf4": {
+		"zh-cn": "邮件营销",
+		"en": "Email marketing",
+		"ko": "e 메일 마케팅",
+		"ja": "メールマーケティングです"
+	},
+	"gok5bq4": {
+		"zh-cn": "联盟广告",
+		"en": "Alliance Advertising",
+		"ko": "연맹 광고",
+		"ja": "アフィリエイト広告です"
+	},
+	"fmh19j4": {
+		"zh-cn": "社交媒体",
+		"en": "Social media",
+		"ko": "소셜 미디어는",
+		"ja": "ソーシャルメディアです"
+	},
+	"i8zzfe4": {
+		"zh-cn": "访问来源",
+		"en": "Access source",
+		"ko": "접근한 곳",
+		"ja": "アクセス源です"
+	},
+	"3mnkjmh": {
+		"zh-cn": "{b}<br/>销售额: {c}元",
+		"en": "{b}<br/> Sales: {c} yuan",
+		"ko": "{b}<br/> 판매액:{c} 원",
+		"ja": "{b}<br/>売上:{c}元です"
+	},
+	"ul41": {
+		"zh-cn": "高",
+		"en": "high",
+		"ko": "높은",
+		"ja": "高いです"
+	},
+	"fny1": {
+		"zh-cn": "低",
+		"en": "low",
+		"ko": "낮",
+		"ja": "低いです"
+	},
+	"ekc52": {
+		"zh-cn": "北京",
+		"en": "Beijing",
+		"ko": "베이징",
+		"ja": "北京です"
+	},
+	"frj02": {
+		"zh-cn": "天津",
+		"en": "Tianjin",
+		"ko": "천진",
+		"ja": "天津です"
+	},
+	"dvhp2": {
+		"zh-cn": "上海",
+		"en": "Shanghai",
+		"ko": "상하이",
+		"ja": "上海です"
+	},
+	"pbh52": {
+		"zh-cn": "重庆",
+		"en": "Chongqing",
+		"ko": "충 칭",
+		"ja": "重慶"
+	},
+	"iy102": {
+		"zh-cn": "河北",
+		"en": "Hebei",
+		"ko": "허 베이",
+		"ja": "河北です"
+	},
+	"iy2s2": {
+		"zh-cn": "河南",
+		"en": "Henan",
+		"ko": "하남 성",
+		"ja": "河南です"
+	},
+	"dtk62": {
+		"zh-cn": "云南",
+		"en": "Yunnan",
+		"ko": "윈 난 (雲 Na)",
+		"ja": "雲南省です"
+	},
+	"oy902": {
+		"zh-cn": "辽宁",
+		"en": "Liaoning",
+		"ko": "랴 오 닝",
+		"ja": "遼寧省です"
+	},
+	"o16d33": {
+		"zh-cn": "黑龙江",
+		"en": "Heilongjiang",
+		"ko": "헤이룽장",
+		"ja": "黒竜江省です"
+	},
+	"j83l2": {
+		"zh-cn": "湖南",
+		"en": "Hunan",
+		"ko": "호남",
+		"ja": "湖南"
+	},
+	"g3f82": {
+		"zh-cn": "安徽",
+		"en": "Anhui",
+		"ko": "안 후이",
+		"ja": "安徽省です"
+	},
+	"g5hn2": {
+		"zh-cn": "山东",
+		"en": "Shandong",
+		"ko": "산동",
+		"ja": "山東です"
+	},
+	"j5g02": {
+		"zh-cn": "江苏",
+		"en": "Jiangsu",
+		"ko": "지앙쑤",
+		"ja": "江蘇"
+	},
+	"j6zq2": {
+		"zh-cn": "浙江",
+		"en": "Zhejiang",
+		"ko": "저장",
+		"ja": "浙江です"
+	},
+	"j6rk2": {
+		"zh-cn": "江西",
+		"en": "Jiangxi",
+		"ko": "강서",
+		"ja": "江西"
+	},
+	"j81t2": {
+		"zh-cn": "湖北",
+		"en": "Hubei",
+		"ko": "후 베이",
+		"ja": "湖北です"
+	},
+	"gtsw2": {
+		"zh-cn": "广西",
+		"en": "Guangxi",
+		"ko": "광서",
+		"ja": "広西"
+	},
+	"kmej2": {
+		"zh-cn": "甘肃",
+		"en": "Gansu",
+		"ko": "감숙 성",
+		"ja": "甘粛省です"
+	},
+	"gh7y2": {
+		"zh-cn": "山西",
+		"en": "Shanxi",
+		"ko": "산서성",
+		"ja": "山西です"
+	},
+	"qbpm2": {
+		"zh-cn": "陕西",
+		"en": "Shaanxi",
+		"ko": "섬 서",
+		"ja": "陝西省です"
+	},
+	"ev1q2": {
+		"zh-cn": "吉林",
+		"en": "Ji Lin",
+		"ko": "길림",
+		"ja": "吉林です"
+	},
+	"l74b2": {
+		"zh-cn": "福建",
+		"en": "Fujian",
+		"ko": "복건",
+		"ja": "福建です"
+	},
+	"oj7t2": {
+		"zh-cn": "贵州",
+		"en": "Guizhou",
+		"ko": "구이 저 우",
+		"ja": "貴州です"
+	},
+	"gi2l2": {
+		"zh-cn": "广东",
+		"en": "Guangdong",
+		"ko": "광둥 (廣 東) 성",
+		"ja": "広東です"
+	},
+	"qc852": {
+		"zh-cn": "青海",
+		"en": "Qinghai",
+		"ko": "청 해",
+		"ja": "青海です"
+	},
+	"o4ds2": {
+		"zh-cn": "西藏",
+		"en": "Xizang",
+		"ko": "서장",
+		"ja": "チベットです"
+	},
+	"faea2": {
+		"zh-cn": "四川",
+		"en": "Sichuan",
+		"ko": "쓰 촨",
+		"ja": "四川です"
+	},
+	"g1wu2": {
+		"zh-cn": "宁夏",
+		"en": "Ningxia",
+		"ko": "닝 샤",
+		"ja": "寧夏です"
+	},
+	"j2rk2": {
+		"zh-cn": "海南",
+		"en": "Hainan",
+		"ko": "하이 난",
+		"ja": "海南です"
+	},
+	"evta2": {
+		"zh-cn": "台湾",
+		"en": "Taiwan",
+		"ko": "대만",
+		"ja": "台湾です"
+	},
+	"qqba2": {
+		"zh-cn": "香港",
+		"en": "Hong Kong",
+		"ko": "홍콩",
+		"ja": "香港です"
+	},
+	"jtlh2": {
+		"zh-cn": "澳门",
+		"en": "Macau",
+		"ko": "마카오",
+		"ja": "マカオです"
+	},
+	"ckv5c3": {
+		"zh-cn": "内蒙古",
+		"en": "Inner Mongolia",
+		"ko": "내몽골",
+		"ja": "内モンゴルです"
+	},
+	"hxw62": {
+		"zh-cn": "新疆",
+		"en": "Xinjiang",
+		"ko": "신장",
+		"ja": "新疆です"
+	},
+	"6ffj439": {
+		"zh-cn": "{value} 件",
+		"en": "{value} piece",
+		"ko": "{value} 건",
+		"ja": "{value}件です"
+	},
+	"bx5dz3": {
+		"zh-cn": "产品A",
+		"en": "Product A",
+		"ko": "제품 a",
+		"ja": "製品Aです"
+	},
+	"bx5e03": {
+		"zh-cn": "产品B",
+		"en": "Product B",
+		"ko": "제품 b",
+		"ja": "製品Bです"
+	},
+	"bx5e13": {
+		"zh-cn": "产品C",
+		"en": "Product C",
+		"ko": "제품 c",
+		"ja": "製品Cです"
+	},
+	"bx5e23": {
+		"zh-cn": "产品D",
+		"en": "Product D",
+		"ko": "제품 d",
+		"ja": "製品Dです"
+	},
+	"bx5e33": {
+		"zh-cn": "产品E",
+		"en": "Product E",
+		"ko": "제품 e",
+		"ja": "製品Eです"
+	},
+	"bx5e43": {
+		"zh-cn": "产品F",
+		"en": "Product F",
+		"ko": "제품 f",
+		"ja": "製品Fです"
+	},
+	"bx5e53": {
+		"zh-cn": "产品G",
+		"en": "Product G",
+		"ko": "제품 g",
+		"ja": "製品Gです"
+	},
+	"bx5e63": {
+		"zh-cn": "产品H",
+		"en": "Product H",
+		"ko": "제품 h",
+		"ja": "製品Hです"
+	},
+	"q5732": {
+		"zh-cn": "销量",
+		"en": "Sales volume",
+		"ko": "판매량",
+		"ja": "売上高です"
+	},
+	"1xgxqj5": {
+		"zh-cn": "{c} 件",
+		"en": "{c} piece",
+		"ko": "{c} 건",
+		"ja": "{c}件です"
+	},
+	"k4l1": {
+		"zh-cn": "日",
+		"en": "day",
+		"ko": "일",
+		"ja": "日です"
+	},
+	"liv2": {
+		"zh-cn": "1月",
+		"en": "January",
+		"ko": "1월",
+		"ja": "1月です"
+	},
+	"ljq2": {
+		"zh-cn": "2月",
+		"en": "February",
+		"ko": "2월",
+		"ja": "2月です"
+	},
+	"lkl2": {
+		"zh-cn": "3月",
+		"en": "March",
+		"ko": "3월",
+		"ja": "3月です"
+	},
+	"llg2": {
+		"zh-cn": "4月",
+		"en": "April",
+		"ko": "4월",
+		"ja": "4月です"
+	},
+	"lmb2": {
+		"zh-cn": "5月",
+		"en": "May",
+		"ko": "5월",
+		"ja": "5月です"
+	},
+	"ln62": {
+		"zh-cn": "6月",
+		"en": "June",
+		"ko": "6월",
+		"ja": "6月です"
+	},
+	"lo12": {
+		"zh-cn": "7月",
+		"en": "July",
+		"ko": "7월",
+		"ja": "7月です"
+	},
+	"low2": {
+		"zh-cn": "8月",
+		"en": "August",
+		"ko": "8월",
+		"ja": "8月です"
+	},
+	"lpr2": {
+		"zh-cn": "9月",
+		"en": "September",
+		"ko": "9월",
+		"ja": "9月です"
+	},
+	"1lu13": {
+		"zh-cn": "10月",
+		"en": "October",
+		"ko": "10월",
+		"ja": "10月です"
+	},
+	"1luw3": {
+		"zh-cn": "11月",
+		"en": "November",
+		"ko": "11월",
+		"ja": "11月です"
+	},
+	"1lvr3": {
+		"zh-cn": "12月",
+		"en": "December",
+		"ko": "12월",
+		"ja": "12月です"
+	},
+	"gala6i4": {
+		"zh-cn": "系统概览",
+		"en": "System Overview",
+		"ko": "시스템 개요",
+		"ja": "システムの概要です"
+	},
+	"po31": {
+		"zh-cn": "至",
+		"en": "to",
+		"ko": "~",
+		"ja": "至ります"
+	},
+	"cd0ag54": {
+		"zh-cn": "开始日期",
+		"en": "Start date",
+		"ko": "시작 날짜",
+		"ja": "開始日です"
+	},
+	"gfhy2u4": {
+		"zh-cn": "结束日期",
+		"en": "End date",
+		"ko": "종료 날짜",
+		"ja": "終了期日"
+	},
+	"legyp3": {
+		"zh-cn": "较上周",
+		"en": "Compared with last week",
+		"ko": "지난 주보다",
+		"ja": "先週よりです"
+	},
+	"j5pk5e4": {
+		"zh-cn": "销售趋势",
+		"en": "Sales trend",
+		"ko": "판매 동향",
+		"ja": "販売の推移です"
+	},
+	"i0fw2": {
+		"zh-cn": "本周",
+		"en": "This week",
+		"ko": "이번 주",
+		"ja": "今週です"
+	},
+	"i44c2": {
+		"zh-cn": "本月",
+		"en": "This month",
+		"ko": "지난",
+		"ja": "今月です"
+	},
+	"ed582": {
+		"zh-cn": "全年",
+		"en": "All year round",
+		"ko": "지난 한해 동안",
+		"ja": "通年です"
+	},
+	"dlf5vo4": {
+		"zh-cn": "最近订单",
+		"en": "Recent order",
+		"ko": "최근 주문서",
+		"ja": "最近の註文です"
+	},
+	"dll6ti4": {
+		"zh-cn": "查看全部",
+		"en": "View all",
+		"ko": "모두 보기",
+		"ja": "全部調べます"
+	},
+	"kuwys3": {
+		"zh-cn": "订单号",
+		"en": "Order Number",
+		"ko": "주문서 번호",
+		"ja": "註文番号です"
+	},
+	"byvcwo4": {
+		"zh-cn": "客户名称",
+		"en": "Customer name",
+		"ko": "고객 이름",
+		"ja": "顧客名です"
+	},
+	"pn1o2": {
+		"zh-cn": "金额",
+		"en": "Amount",
+		"ko": "금액",
+		"ja": "金額です"
+	},
+	"k1e32": {
+		"zh-cn": "状态",
+		"en": "Status",
+		"ko": "상태",
+		"ja": "状態です"
+	},
+	"q9bzij6": {
+		"zh-cn": "地区销售分布",
+		"en": "Regional sales distribution",
+		"ko": "지역별 판매 분포",
+		"ja": "地域別の販売分布です"
+	},
+	"avv3er6": {
+		"zh-cn": "产品销量排行",
+		"en": "Product sales ranking",
+		"ko": "제품 판매량 순위",
+		"ja": "売り上げランキングです。"
+	},
+	"u1lz6a6": {
+		"zh-cn": "系统实时监控",
+		"en": "Real-time monitoring of the system",
+		"ko": "시스템 실시간 모니터링",
+		"ja": "リアルタイムで監視するシステムです"
+	},
+	"ejix2": {
+		"zh-cn": "刷新",
+		"en": "Refresh",
+		"ko": "새로 고침",
+		"ja": "リフレッシュします"
+	},
+	"xbq8ie6": {
+		"zh-cn": "CPU使用率",
+		"en": "CPU usage rate",
+		"ko": "cpu 사용률",
+		"ja": "CPU使用率です"
+	},
+	"ojyuyd5": {
+		"zh-cn": "内存使用率",
+		"en": "Memory usage rate",
+		"ko": "메모리 사용량",
+		"ja": "メモリ使用率です"
+	},
+	"9qq7i15": {
+		"zh-cn": "磁盘使用率",
+		"en": "Disk utilization rate",
+		"ko": "디스크 사용량",
+		"ja": "ディスク使用率です"
+	},
+	"bivjza4": {
+		"zh-cn": "在线用户",
+		"en": "Online user",
+		"ko": "온라인 사용자",
+		"ja": "オンラインユーザーです"
+	},
+	"fpl5w3": {
+		"zh-cn": "次/秒",
+		"en": "Times per second",
+		"ko": "세컨드/초",
+		"ja": "サブ/秒です。"
+	},
+	"b3elph4": {
+		"zh-cn": "响应时间",
+		"en": "Response time",
+		"ko": "응답 시간",
+		"ja": "応答時間です"
+	},
+	"gl6n2": {
+		"zh-cn": "广州",
+		"en": "Guangzhou",
+		"ko": "광 저 우",
+		"ja": "広州です"
+	},
+	"j6g22": {
+		"zh-cn": "深圳",
+		"en": "Shenzhen",
+		"ko": "선전",
+		"ja": "深センです"
+	},
+	"i3v52": {
+		"zh-cn": "杭州",
+		"en": "Hangzhou",
+		"ko": "항 저 우",
+		"ja": "杭州です"
+	},
+	"elv92": {
+		"zh-cn": "南京",
+		"en": "Nanjing",
+		"ko": "남경",
+		"ja": "南京です"
+	},
+	"iv1f2": {
+		"zh-cn": "武汉",
+		"en": "Wuhan",
+		"ko": "무한",
+		"ja": "武漢です"
+	},
+	"hh4d2": {
+		"zh-cn": "成都",
+		"en": "Chengdu",
+		"ko": "청 두 (Cheng Dou)",
+		"ja": "成都です"
+	},
+	"mx0ig16": {
+		"zh-cn": "各地区销售额",
+		"en": "Sales volume in each region",
+		"ko": "지역별 매출액",
+		"ja": "地域別売上高です"
+	},
+	"g7x2sq9": {
+		"zh-cn": "{b}: {c}元",
+		"en": "{b}: {c} element",
+		"ko": "{b}:{c} 원",
+		"ja": "{b}: {c}元です"
+	},
+	"2hxvlw8": {
+		"zh-cn": "{value}元",
+		"en": "{value} meta",
+		"ko": "{value} 위안",
+		"ja": "{value}元です"
+	},
+	"2hxw298": {
+		"zh-cn": "{value}件",
+		"en": "{value} piece",
+		"ko": "{value} 건",
+		"ja": "{value}件です"
+	},
+	"293dt4": {
+		"zh-cn": "{c}件",
+		"en": "{c} piece",
+		"ko": "{c} 건",
+		"ja": "{c}件です"
+	},
+	"x5g5i8a": {
+		"zh-cn": "欢迎使用后台管理系统",
+		"en": "Welcome to use the background management system",
+		"ko": "백그라운드 관리 시스템 사용을 환영합니다",
+		"ja": "バックオフィスの利用を歓迎します"
+	},
+	"qylb2": {
+		"zh-cn": "首页",
+		"en": "Home Page",
+		"ko": "첫 페이지",
+		"ja": "トップページです"
+	},
+	"pyymjc7": {
+		"zh-cn": "请再次输入密码",
+		"en": "Please enter the password again",
+		"ko": "비밀번호를 다시 입력하십시오",
+		"ja": "パスワードの再入力をお願いします"
+	},
+	"p31ihj9": {
+		"zh-cn": "两次输入密码不一致",
+		"en": "The passwords entered twice were inconsistent",
+		"ko": "두 번 입력한 비밀번호가 일치하지 않습니다",
+		"ja": "2回入力してもパスワードが一致しません"
+	},
+	"9z6mkte": {
+		"zh-cn": "长度在 3 到 20 个字符",
+		"en": "The length is between 3 and 20 characters",
+		"ko": "3 글자 내지 20 글자 사이입니다",
+		"ja": "3 ~ 20文字の長さです"
+	},
+	"subcqga": {
+		"zh-cn": "密码长度不能小于6位",
+		"en": "The password length cannot be less than 6 characters",
+		"ko": "암호의 길이는 6자리보다 작으면 안 된다",
+		"ja": "暗号の長さは6桁です"
+	},
+	"erltl07": {
+		"zh-cn": "请输入邮箱地址",
+		"en": "Please enter your email address",
+		"ko": "이메일 주소를 입력해 주세요",
+		"ja": "メールアドレスをお願いします。"
+	},
+	"anhu2ra": {
+		"zh-cn": "请输入正确的邮箱地址",
+		"en": "Please enter the correct email address",
+		"ko": "정확한 우편함 주소를 입력해 주세요",
+		"ja": "正しいメールアドレスの入力をお願いします。"
+	},
+	"bdb1pq9": {
+		"zh-cn": "请输入用户名和密码",
+		"en": "Please enter the username and password",
+		"ko": "사용자 이름과 비밀번호를 입력하세요",
+		"ja": "ユーザー名とパスワードをお願いします"
+	},
+	"fcewjt4": {
+		"zh-cn": "登录成功",
+		"en": "Login successful",
+		"ko": "로그인 성공",
+		"ja": "ログインできました"
+	},
+	"5olqexe": {
+		"zh-cn": "登录失败，请检查用户名和密码",
+		"en": "Login failed. Please check the username and password",
+		"ko": "로그인에 실패했습니다. 사용자 이름과 비밀번호를 확인하십시오",
+		"ja": "ログインに失敗しました,ユーザー名とパスワードをチェックしてください"
+	},
+	"idc0bc8": {
+		"zh-cn": "注册成功，请登录",
+		"en": "Registration successful. Please log in",
+		"ko": "등록에 성공했습니다. 로그인하십시오",
+		"ja": "登録できました,ログインしてください"
+	},
+	"97amhga": {
+		"zh-cn": "注册失败，请稍后重试",
+		"en": "Registration failed. Please try again later",
+		"ko": "등록에 실패했습니다. 나중에 다시 시도하십시오",
+		"ja": "登録に失敗しましたので,後ほど再試行してください"
+	},
+	"c4skdi5": {
+		"zh-cn": "没有账号？",
+		"en": "No account?",
+		"ko": "계좌번호 없어요?",
+		"ja": "口座番号はありませんか?"
+	},
+	"fub0ks4": {
+		"zh-cn": "立即注册",
+		"en": "Register now",
+		"ko": "지금 등록",
+		"ja": "すぐに登録します"
+	},
+	"iyzo2": {
+		"zh-cn": "注册",
+		"en": "Register",
+		"ko": "등록",
+		"ja": "登録します"
+	},
+	"2txixq5": {
+		"zh-cn": "请设置密码",
+		"en": "Please set a password.",
+		"ko": "비밀번호를 설정해 주세요.",
+		"ja": "パスワードをお願いします"
+	},
+	"57u0485": {
+		"zh-cn": "请确认密码",
+		"en": "Please confirm the password.",
+		"ko": "비밀번호 확인",
+		"ja": "パスワードの確認をお願いします。"
+	},
+	"2j0utw5": {
+		"zh-cn": "请输入邮箱",
+		"en": "Please enter your email address.",
+		"ko": "편지함을 입력하십시오",
+		"ja": "メールをお願いします。"
+	},
+	"pr1zw75": {
+		"zh-cn": "已有账号？",
+		"en": "Already have an account?",
+		"ko": "계좌번호 있으세요?",
+		"ja": "口座番号はありますか?"
+	},
+	"iid7444": {
+		"zh-cn": "返回登录",
+		"en": "Return to login",
+		"ko": "로그인 반환",
+		"ja": "戻ってログインします"
 	}
 }

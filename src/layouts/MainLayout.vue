@@ -10,7 +10,7 @@
         <!-- Logo 区域 -->
         <div class="logo-wrapper" @click="router.push('/')">
           <!-- <img src="@/assets/logo.png" class="logo" alt="logo"> -->
-          <span v-show="!isCollapse" class="logo-text">admin编辑器</span>
+          <span v-show="!isCollapse" class="logo-text">欢迎使用后台管理系统</span>
         </div>
   
         <!-- 导航菜单 -->
@@ -23,7 +23,7 @@
         >
           <el-menu-item index="/">
             <el-icon><HomeFilled /></el-icon>
-            <template #title>仪表盘</template>
+            <template #title>首页</template>
           </el-menu-item>
   
           <el-sub-menu index="user-management">
@@ -100,7 +100,8 @@
     Setting,
     Fold,
     Expand,
-    ArrowDown
+    ArrowDown,
+    Location
   } from '@element-plus/icons-vue'
   
   const router = useRouter()
@@ -231,7 +232,7 @@
   
       .app-main {
         height: calc(100vh - 60px);
-        padding: 20px;
+        // padding: 20px;
         overflow-y: auto;
         background-color: #f0f2f5;
       }
