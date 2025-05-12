@@ -15,7 +15,7 @@ service.interceptors.request.use(config => {
   if (!whiteList.some(url => config.url.includes(url))) {
     const token = localStorage.getItem('token')
     if (token) {
-      config.headers.Authorization = `Bearer ${token}`
+      config.headers.Authorization = `${token}`
     } else {
       router.push('/login') // 无 Token 跳转登录页
     }

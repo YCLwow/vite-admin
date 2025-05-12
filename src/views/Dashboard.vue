@@ -186,7 +186,7 @@ import {
   VisualMapComponent
 } from 'echarts/components';
 import { CanvasRenderer } from 'echarts/renderers';
-
+import homeApi from '@/api/home.js'
 // 注册必要的组件
 use([
   TitleComponent,
@@ -637,8 +637,21 @@ export default defineComponent({
       window.addEventListener('resize', () => {
         Object.values(charts).forEach(chart => chart?.resize());
       });
+
+
+      // 获取list数据
+      getListData();
     });
     
+
+    const getListData = () => {
+      console.log('获取list数据');
+      homeApi.getListData().then(res => {
+        console.log(res);
+      });
+      
+    };
+
     // 查看所有订单
     const viewAllOrders = () => {
       console.log('查看所有订单');
